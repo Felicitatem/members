@@ -78,16 +78,16 @@
         "position" : "Technical Head",
     },
     {
-        "name" : "null",
-        "email" : "null",
+        "name" : "Ayush Khade",
+        "email" : "23f2000737@ds.study.iitm.ac.in",
         "links" : {
-            "github" : "",
-            "linkedin" : "",
-            "instagram" : "",
-            "personal-website" : "",
+            "github" : "null",
+            "linkedin" : "null",
+            "instagram" : "null",
+            "personal-website" : "null",
         }
-        "photo" : "",
-        "shortIntro" : "",
-        "position" : "",
+        "photo" : "https://drive.google.com/file/d/1LZY0fcEYJMSGdxJU3sip5TuP_LNP6P30/view?usp=drive_link",
+        "shortIntro" : "Hey !! Am Ayush Khade, a foundation Level student from Pune. Am doing this degree standalone because jee forced me to do so xd ! I'm 20 and am fond of languages hence here.",
+        "position" : "PR Department",
     },
 ]
